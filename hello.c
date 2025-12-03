@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, Git!\n");//修改输出内容
+    printf("Hello, Version Control!\n");
     return 0;
 }
