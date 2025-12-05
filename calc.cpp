@@ -14,7 +14,9 @@ int main() {
     cout << "10*5=" << mul(a, b) << endl;
     cout << "10/5=" << div(a, b) << endl;
 
+
     cout << "JinHaihui的输出：新增输出" << endl;//JinHaihui的新增输出
+    cout << "M-clo的修改：新增输出" << endl; //M-clo的新增内容
 
     return 0;
 }
