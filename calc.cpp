@@ -13,5 +13,8 @@ int main() {
     // 新增两行
     cout << "10*5=" << mul(a, b) << endl;
     cout << "10/5=" << div(a, b) << endl;
+
+    cout << "JinHaihui的输出：新增输出" << endl;//JinHaihui的新增输出
+
     return 0;
 }
