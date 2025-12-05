@@ -17,6 +17,7 @@ int main() {
     }
 
     cout << "数组中的最大值是：" << max_num << endl;  // 结果：89
+    cout << "JinHaihui的修改：新增输出" << endl;  // JinHaihui的新增内容
 
     return 0;
 }
